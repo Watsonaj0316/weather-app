@@ -25,7 +25,7 @@ Deployed Application:https://watsonaj0316.github.io/weather-app/
 Repo: https://github.com/Watsonaj0316/weather-app 
 
 ## Screenshot
-![screenshot](IMG_7384.jpg) 
+![screenshot](IMG_7386.jpg) 
 
 ## Setup and Installation
 Clone the repository to your local machine: 
