@@ -1,4 +1,4 @@
-# weather-app https://openweathermap.org/img/wn/10d@2x.png
+# weather-app ![Weather Icon](https://openweathermap.org/img/wn/10d@2x.png)
 
 ## Description
 The Weather Dashboard is an application designed to reveal current-time and future-time weather updates. This weather dashboard combines simplicity and functionality, enabling users to effortlessly access current weather conditions and for the next 5 days for any city.
@@ -22,7 +22,7 @@ THEN I am again presented with current and future conditions for that city
 ## Links
 Deployed Application:
 
-Repo:
+Repo: https://github.com/Watsonaj0316/weather-app 
 
 ## Screenshot
 
@@ -31,11 +31,11 @@ Clone the repository to your local machine:
 git@github.com:Watsonaj0316/weather-app.git
 
 ## Usage
-HTML - For structuring the web content.
-CSS - For styling and responsive design.
-JavaScript - For dynamic interactions and API integration.
-Bootstrap - For additional styling and responsiveness.
-OpenWeather API - For fetching real-time weather data.
+HTML - For structuring the web content
+CSS - For styling and responsive design
+JavaScript - For dynamic interactions and API integration
+Bootstrap - For additional styling and responsiveness
+OpenWeather API - For fetching real-time weather data
 
 ## License
 This project is licensed under the ISC license.
